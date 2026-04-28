@@ -1,3 +1,4 @@
+BASED ON PREVIOUS PROJECT [View github Repo](https://github.com/12zcab/Handheld-Z80-Retro-Computer)
 # What is this?
 This is a portable handheld computer made with z80 customized for assembly language programming and simplified system for educational purpose.
 The computer contains a Z80 cpu,a 1602 or 2004 LCD and 2 EEPROM slot,a RAM slot,a buzzer with IO ic driver
