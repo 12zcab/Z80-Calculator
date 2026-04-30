@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DS12885+
+D Real Time Clock RTC
+K
+F http://datasheets.maximintegrated.com/en/ds/DS12885-DS12C887A.pdf
+$ENDCMP
+#
+#End Doc Library
